@@ -64,7 +64,7 @@ class UserController extends Controller
             DB::commit();
 
             $response = array(
-                'message'       => 'Congratulation, add user successfully!',
+                'message'       => 'Congratulation, add customer successfully!',
                 'head_message'  => 'Success!',
                 'status'        => 'success',
             );
@@ -74,7 +74,7 @@ class UserController extends Controller
             DB::rollback();
 
             $response = array(
-                'message'       => 'Sorry, add user failed!',
+                'message'       => 'Sorry, add customer failed!',
                 'head_message'  => 'Failed!',
                 'status'        => 'error'
             );
