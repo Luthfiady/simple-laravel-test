@@ -1,0 +1,48 @@
+.dropdown-menu {
+    min-width: 0px;
+}
+
+.display_none {
+	display: none;
+}
+
+.restrict_content {
+	padding: 0px 0px 30px 30px;
+}
+
+.error {
+	padding-top: 5px;
+	color:#cc5965;
+	font-size: 10pt;
+}
+
+#message-required {
+	font-weight:bold; 
+	color:#cc5965;
+}
+
+.message-error {
+	font-weight:bold; 
+	color:#cc5965;
+}
+
+.message-info {
+	font-weight:bold; 
+	color:#cc5965;
+}
+
+.text-middle {
+	vertical-align: middle !important;
+}
+
+.text-bottom {
+	vertical-align: bottom !important;
+}
+
+.control-label {
+	text-align: left !important;
+}
+
+.footer {
+	height: 200px;
+}
