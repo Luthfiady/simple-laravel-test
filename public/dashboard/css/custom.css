@@ -1,0 +1,128 @@
+.display_none {
+    display: none !important;
+}
+
+.trial-info {
+    font-size: 12px;
+    padding: 7px;
+    border: solid 1px;  
+    border-radius: 50px;
+}
+
+.program-referal span {
+    font-size: 20px;
+}
+
+a.dropdown-toggle-user span {
+    color: #888888;
+    font-weight: normal;
+}
+
+a.dropdown-toggle-user span i {
+    float: right;
+    padding-left: 10px;    
+}
+
+.row-title {
+    
+}
+
+.row-subtitle {
+    padding-bottom: 20px;
+}
+
+.row-content {
+
+}
+
+.require-icon {
+    color: red;
+}
+
+.icon-big {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.panel-collapse .panel-body {
+    background-color: #f2f2f2;
+}
+
+textarea {
+    resize: none;
+}
+
+.info-input {
+    font-size: 10px;
+    color: darkcyan;
+}
+
+.well {
+    background-color: white;
+}
+
+.well-info {
+    border: solid 1px;  
+    border-radius: 50px;
+}
+
+.btn-detail {
+    width: 150px;
+}
+
+.btn-pre-submit {
+    width: 100%;
+    background-color: white;
+}
+
+.btn-pre-submit:hover {
+    width: 100%;
+    color: steelblue;
+}
+
+.btn-submit {
+    margin-top: 10px;
+    width: 100px;
+}
+
+.tooltipster-sidetip.tooltipster-noir.tooltipster-noir-customized .tooltipster-box {
+	background: #e31b1b;
+	border: 3px solid #e31b1b;
+	border-radius: 6px;
+    box-shadow: 5px 5px 2px 0 white;
+    /* color: white; */
+}
+
+.tooltipster-sidetip.tooltipster-noir.tooltipster-noir-customized .tooltipster-content {
+	color: white;
+	padding: 8px;
+}
+
+.upload-area {
+    width: 115px;
+    height: 115px;
+    border: dashed 4px darkturquoise;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.uploads {
+    display: inline-block;
+    color: darkturquoise;
+}
+
+.uploads:hover {
+    color: slategrey;
+}
+
+.icon-upload {
+    font-size: 60px;
+}
+
+.upload-info {
+    width: 115px;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 10px;
+}

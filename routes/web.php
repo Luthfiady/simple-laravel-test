@@ -15,7 +15,8 @@
 //     return view('user');
 // });
 
-Route::get('/', 'UserController@index');
+Route::get('/', 'HomeController@index');
+Route::get('/user', 'UserController@index');
 Route::post('/addUser', 'UserController@add');
 Route::post('/checkExist', 'UserController@checkExist');
 Route::get('/getListUser', 'UserController@getList');
