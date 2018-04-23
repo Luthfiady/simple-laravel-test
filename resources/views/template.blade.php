@@ -219,9 +219,22 @@
                                             <div>
                                                 <i class="fa fa-envelope fa-fw">
                                                 </i>
-                                                You have 16 messages
+                                                You have 2 messages
                                                 <span class="pull-right text-muted small">
                                                     4 minutes ago
+                                                </span>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="divider"></li>
+                                    <li>
+                                        <a href="#">
+                                            <div>
+                                                <i class="fa fa-envelope fa-fw">
+                                                </i>
+                                                You have 1 message
+                                                <span class="pull-right text-muted small">
+                                                    10 minutes ago
                                                 </span>
                                             </div>
                                         </a>
